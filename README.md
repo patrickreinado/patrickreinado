@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Patrick Luiz 👋
-Tenho 18 anos e estou cursando o Ensino Superior em Análise e desenvolvimento de sistemas e tenho Inglês intermediário.
+Tenho 18 anos e estou cursando o Ensino Superior em Análise e desenvolvimento de sistemas.
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-luiz-941954269/)
 
